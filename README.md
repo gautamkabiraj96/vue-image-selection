@@ -1,2 +1,5 @@
 # vue-image-selection
-Created with CodeSandbox
+
+Learn how to selected multiple images from an image gallery and perform some action:
+
+
